@@ -1,0 +1,32 @@
+.bg-cadastro{
+  background-image: url('../../assets/bg/bg-cadastro.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blur-cadastro{
+  background-color: rgba(255,255,255,0.100);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.br-5{
+  border-radius: 5%;
+}
+
+.btn-cadastrar{
+  background-color: #ffb703!important;
+}
+
+.btn-cancelar{
+  background-color: #fb8500!important;
+}
+
+.font-spc{
+  -webkit-text-stroke: 1px black;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+

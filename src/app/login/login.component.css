@@ -1,0 +1,24 @@
+.bg-login{
+  background-image: url("../../assets/bg/bg-login.jpeg");
+  background-size: 100%;
+}
+
+.blur-login{
+  background-color: rgba(255,255,255,0.100);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.br-5{
+  border-radius: 5%;
+}
+
+.fonte{
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.cadastrar{
+  text-shadow: none;
+}

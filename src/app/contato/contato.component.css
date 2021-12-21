@@ -1,0 +1,12 @@
+.bg-contato{
+  background-image: url("https://image.freepik.com/vetores-gratis/fundo-de-textura-aquarela-amarela-elegante_1055-10355.jpg");
+  background-size: 100% auto;
+}
+
+.br-5{
+  border-radius: 5px;
+}
+
+.p32{
+  font-size: 32px;
+}
